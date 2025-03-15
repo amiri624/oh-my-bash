@@ -8,7 +8,9 @@ apt update
 Disclaimer: Oh My Bash works best on macOS and Linux.
 
    . Unix-like operating system (macOS or Linux)
+   
    . curl or wget should be installed
+   
    . git should be installed
 
 Basic Installation
