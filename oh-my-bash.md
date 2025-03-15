@@ -1,11 +1,5 @@
 # Getting Started
 ## Disclaimer:
-```bash
-sudo su -
-```
-```bash
-apt update
-```
 ## Oh My Bash works best on macOS and Linux.
 
    . Unix-like operating system (macOS or Linux)
@@ -16,7 +10,12 @@ apt update
 
 ## Basic Installation
 ### Oh My Bash is installed by running one of the following commands in your terminal. You can install this via the command-line with either curl or wget.
-
+```bash
+sudo su -
+```
+```bash
+apt update
+```
 ### via curl
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
