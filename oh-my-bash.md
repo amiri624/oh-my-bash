@@ -1,5 +1,6 @@
 # Getting Started
-## Disclaimer:```bash
+## Disclaimer:
+```bash
 sudo su -
 ```
 ```bash
