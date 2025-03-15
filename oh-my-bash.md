@@ -4,7 +4,7 @@ sudo su -
 ```bash
 apt update
 ```
-### Getting Started
+## Getting Started
 Disclaimer: Oh My Bash works best on macOS and Linux.
 
    . Unix-like operating system (macOS or Linux)
