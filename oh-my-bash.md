@@ -1,4 +1,5 @@
 # Getting Started
+
 ## Disclaimer:
 ## Oh My Bash works best on macOS and Linux.
 
